@@ -1,2 +1,2 @@
-# TataTechnologiesInnovent
-Team Mavericks for the Tata Technologies Innovent 2024
+# Team Mavericks
+### Tata Technologies Innovent 2024
